@@ -13,8 +13,9 @@ MyTeam is a Node.js command-line application that takes in information about  so
 
 ## URLs
 - [GitHub Repo URL](https://github.com/)
-- [Video Walk-thru URL]("https://drive.google.com/file/d/1OZLDqiVhYY3hu0GOGgS_fontIr714chx/preview")
 - [Generated HTML URL](https://l)
+- Video Demo: https://user-images.githubusercontent.com/64736572/153778879-dfa50507-25af-489e-83f9-e68c4bb037b6.mp4
+
 
 ## Foreword
 
