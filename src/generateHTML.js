@@ -162,7 +162,7 @@ const generateTeamProfile = function (employeeCards) {
       <a href="#" class="navbar-brand d-flex align-items-center">
         
         <i class="fas fa-users"></i>
-        <strong>Team Profile Generator</strong>
+        <strong>MyTeam</strong>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -176,7 +176,7 @@ const generateTeamProfile = function (employeeCards) {
   <section class="py-5 text-center container">
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Team Profile Generator</h1>
+        <h1 class="fw-light">MyTeam: Team Profile Generator</h1>
         <p class="lead text-muted">
           The following profile has been created:
         </p>
