@@ -1,5 +1,5 @@
-# team-profile-generator
-This is a Node.js command-line application that takes in information about  software engineering team employees, then generates an HTML page to display summaries for each individual. Unit testing is then available to make code maintainable, and to ensure each part of the code passes.
+# MyTeam
+MyTeam is a Node.js command-line application that takes in information about  software engineering team employees, then generates an HTML page to display summaries for each individual. Unit testing is then available to make code maintainable, and to ensure each part of the code passes.
 
 ## Table of Contents
 - [Important URLs](#urls)
@@ -12,9 +12,9 @@ This is a Node.js command-line application that takes in information about  soft
 - [License](#licensing)
 
 ## URLs
-- [GitHub Repo URL](https://github.com/candracodes/team-profile-generator)
-- [Video Walk-thru URL](https://watch.screencastify.com/v/tfZDm7TSHwqll95Ga7zy)
-- [Generated HTML URL](https://candracodes.github.io/team-profile-generator/dist/index.html)
+- [GitHub Repo URL](https://github.com/)
+- [Video Walk-thru URL]
+- [Generated HTML URL](https://l)
 
 ## Foreword
 
@@ -80,7 +80,6 @@ THEN I exit the application, and the HTML is generated
 * This application should resemble the following screenshot and video walk-through:
 
 ![Screenshot](./assets/screenshot.png)
-- [Video Walkthrough](https://watch.screencastify.com/v/tfZDm7TSHwqll95Ga7zy)
 
 ## Frameworks
 
