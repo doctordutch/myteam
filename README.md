@@ -13,7 +13,7 @@ MyTeam is a Node.js command-line application that takes in information about  so
 
 ## URLs
 - [GitHub Repo URL](https://github.com/)
-<iframe src="https://drive.google.com/file/d/1OZLDqiVhYY3hu0GOGgS_fontIr714chx/preview" width="640" height="480"></iframe>
+- [Video Walk-thru URL]("https://drive.google.com/file/d/1OZLDqiVhYY3hu0GOGgS_fontIr714chx/preview")
 - [Generated HTML URL](https://l)
 
 ## Foreword
