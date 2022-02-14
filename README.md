@@ -12,8 +12,8 @@ MyTeam is a Node.js command-line application that takes in information about  so
 - [License](#licensing)
 
 ## URLs
-- [GitHub Repo URL](https://github.com/)
-- [Generated HTML URL](https://l)
+- [GitHub Repo URL](https://github.com/doctordutch/myteam)
+- [Generated HTML URL](https://github.com/doctordutch/myteam/blob/main/dist/index.html)
 - Video Demo: https://user-images.githubusercontent.com/64736572/153778879-dfa50507-25af-489e-83f9-e68c4bb037b6.mp4
 
 
@@ -76,11 +76,6 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Mock-Up
-
-* This application should resemble the following screenshot and video walk-through:
-
-![Screenshot](./assets/screenshot.png)
 
 ## Frameworks
 
